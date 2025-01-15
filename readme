@@ -1,0 +1,19 @@
+# Computation with NumPy
+
+This project demonstrates various computations and visualizations using NumPy and Matplotlib.
+
+## Requirements
+
+- Python 3.x
+- NumPy
+- Matplotlib
+- Pillow (PIL)
+- scikit-image (optional, for sample images)
+
+## Installation
+
+1. Clone the repository or download the project files.
+2. Install the required packages using pip:
+
+```sh
+pip install numpy matplotlib pillow scikit-image
